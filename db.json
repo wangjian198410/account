@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "001",
+      "userName": "jerry",
+      "email":"jerry@sina.com",
+      "token":"123456"
+    },
+    {
+      "id": "002",
+      "userName": "zhangsan",
+      "email":"zhangsan@sina.com",
+      "token":"123456"
+    },
+    {
+      "id": "003",
+      "userName": "lisi",
+      "email":"lsi@sina.com",
+      "token":"123456"
+    },
+    {
+      "id": "004",
+      "userName": "wangwu",
+      "email":"wangwu@sina.com",
+      "token":"123456"
+    },
+  ]
+}
